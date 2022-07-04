@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Upsaltus!" />
+        <Header title="Upsaltus" />
         <p className="description">
-          Data products for all!
-          Website under construction
+          Data products for all! Website under construction
         </p>
       </main>
 
